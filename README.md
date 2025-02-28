@@ -9,7 +9,8 @@ This project involves analyzing Amazon sales data using SQL to answer various bu
 - Analyze product performance based on ratings and pricing.  
 - Categorize products for better segmentation.
 
-## **Dataset**  
+## **Dataset**
+Dataset  Link : https://drive.google.com/file/d/1hJOXNpOUXOpyjsrBt1O8MyIJHfWgzakS/view
 The dataset used for this project includes:  
 1. **Products**: Information about product names, categories, pricing, discounts, and ratings.  
 2. **Reviews**: Customer reviews and their associated ratings.
